@@ -1,0 +1,15 @@
+E:\Projets\C#\DiscordRPC\bin\Debug\DiscordRPC.exe.config
+E:\Projets\C#\DiscordRPC\bin\Debug\DiscordRPC.exe
+E:\Projets\C#\DiscordRPC\bin\Debug\DiscordRPC.pdb
+E:\Projets\C#\DiscordRPC\bin\Debug\DiscordWebhook.dll
+E:\Projets\C#\DiscordRPC\bin\Debug\Newtonsoft.Json.dll
+E:\Projets\C#\DiscordRPC\bin\Debug\Newtonsoft.Json.xml
+E:\Projets\C#\DiscordRPC\obj\Debug\DiscordRPC.csproj.AssemblyReference.cache
+E:\Projets\C#\DiscordRPC\obj\Debug\DiscordRPC.csproj.SuggestedBindingRedirects.cache
+E:\Projets\C#\DiscordRPC\obj\Debug\DiscordRPC.Form1.resources
+E:\Projets\C#\DiscordRPC\obj\Debug\DiscordRPC.Properties.Resources.resources
+E:\Projets\C#\DiscordRPC\obj\Debug\DiscordRPC.csproj.GenerateResource.cache
+E:\Projets\C#\DiscordRPC\obj\Debug\DiscordRPC.csproj.CoreCompileInputs.cache
+E:\Projets\C#\DiscordRPC\obj\Debug\DiscordRPC.csproj.CopyComplete
+E:\Projets\C#\DiscordRPC\obj\Debug\DiscordRPC.exe
+E:\Projets\C#\DiscordRPC\obj\Debug\DiscordRPC.pdb
